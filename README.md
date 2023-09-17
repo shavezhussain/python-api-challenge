@@ -116,7 +116,7 @@ Now I want to use my skills in working with weather data to plan future vacation
 
 - Create a heat map that displays the humidity for every city from the part I of the project.
 
-  ![heatmap](Images/Heatmap.png)
+  ![heatmap]Images/Heatmap.PNG
 
 - Narrow down the DataFrame to find my ideal weather condition. For example:
 
