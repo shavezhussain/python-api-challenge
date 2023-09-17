@@ -8,7 +8,6 @@ I created a Python script to visualize the weather of 500+ cities across the wor
 
 I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized [simple Python library](https://pypi.python.org/pypi/citipy) and [OpenWeatherMap API](https://openweathermap.org/api)
 
-To see my Python script, check jupyter notebook [here](https://github.com/kanamoore/python-api-challenge/blob/master/WeatherPy/WeatherPy.ipynb)
 
 ## Observation
 
